@@ -31,7 +31,7 @@ out/
 .cache/
 *.map
 public/static/
-
+*.json
 # React environment files
 .env
 .env.local
